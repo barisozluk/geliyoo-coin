@@ -12683,3 +12683,73 @@ Go Top CSS
   justify-content: space-around;
 }
 
+.mw9 {
+  max-width: 96rem;
+}
+
+.pt0-l {
+  padding-top: 0;
+}
+
+.center-l {
+  margin-left: auto;
+}
+
+.l-integrationCards-container {
+  height: 544px;
+}
+
+.l-integrationCards {
+  animation: animateTranslateYXL 40s linear infinite;
+  height: auto;
+  width: 100%;
+  overflow: visible;
+  top: 0;
+  position: relative;
+  transform: translateX(0);
+  transform-style: preserve-3d;
+  backface-visibility: hidden;
+}
+
+
+@keyframes animateTranslateYXL {
+  0% {
+    transform: translateY(0);
+  }
+  
+  100% {
+    transform: translateY(-813px);
+  }
+}
+
+.l-integrationCard {
+  height: 120px;
+  width: 23%;
+  box-shadow: 0 0 1px rgba(0,0,0,.1), 0 3px 6px rgba(0,0,0,.05);
+  margin: 3px;
+}
+
+.pa2 {
+  padding: .5rem;
+}
+
+.bg-white {
+  background-color: #fff;
+}
+
+.overflow-hidden {
+  overflow: hidden;
+}
+
+.pv6-l {
+  padding-top: 8rem;
+  padding-bottom: 8rem;
+}
+
+.view-details-btn {
+  color: #189ddf;
+}
+
+.b--blue {
+  border-color: #189ddf;
+}

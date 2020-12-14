@@ -174,14 +174,14 @@ const Section2 = () => {
                             </div> */}
 
                             <h6>
-                                <Link to="#">
+                                <Link to="https://api.bitgo.com/docs/">
                                     Wallets SDK
                                 </Link>
                             </h6> 
 
                             <p>Manage multiple digital currencies and wallets through a single, unified interface.</p>
                             
-                            <Link to="#" className="view-details-btn">
+                            <Link to="https://api.bitgo.com/docs/" className="view-details-btn">
                                 Learn More &rarr;
                             </Link>
                         </div>
@@ -191,14 +191,14 @@ const Section2 = () => {
                             </div> */}
 
                             <h6>
-                                <Link to="#">
+                                <Link to="https://api.bitgo.com/docs/#tag/Trade-REST-API">
                                     Trade Execution SDK
                                 </Link>
                             </h6> 
 
                             <p>An efficient way for developers to build digital asset trading applications and to offer related functionality.</p>
                             
-                            <Link to="#" className="view-details-btn">
+                            <Link to="https://api.bitgo.com/docs/#tag/Trade-REST-API" className="view-details-btn">
                                 Learn More &rarr;
                             </Link>
                         </div>

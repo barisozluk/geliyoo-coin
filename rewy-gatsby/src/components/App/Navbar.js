@@ -213,7 +213,7 @@ const Navbar = () => {
                                                 <ul className="dropdown-menu">
                                                     <li className="nav-item">
                                                         <Link 
-                                                            to="#" 
+                                                            to="https://api.bitgo.com/docs/" 
                                                             activeClassName="active"
                                                             onClick={() => setCollapsed(true)}
                                                             className="nav-link"
@@ -224,7 +224,7 @@ const Navbar = () => {
 
                                                     <li className="nav-item">
                                                         <Link 
-                                                            to="#" 
+                                                            to="https://api.bitgo.com/docs/#tag/Trade-REST-API" 
                                                             activeClassName="active"
                                                             onClick={() => setCollapsed(true)}
                                                             className="nav-link"

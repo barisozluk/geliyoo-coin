@@ -127,12 +127,12 @@ const Footer = () => {
 
                             <ul className="footer-links-list">
                                 <li>
-                                    <Link to="#">
+                                    <Link to="https://api.bitgo.com/docs/">
                                         Wallets SDK
                                     </Link>
                                 </li>   
                                 <li>
-                                    <Link to="#">
+                                    <Link to="https://api.bitgo.com/docs/#tag/Trade-REST-API">
                                         Trade Execution SDK
                                     </Link>
                                 </li>
