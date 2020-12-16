@@ -4,7 +4,7 @@ import { Link } from 'gatsby'
 
 const Banner = () => {
     return (
-        <div className="relative flex flex-column bb b--border b-heroIndex">
+        <div className="relative flex flex-column css-4x13yv">
             <div className="it-services-banner wallet-platform">
                 <div className="container">
                     <div className="row align-items-center">
